@@ -4,6 +4,9 @@ import foo from './foo';
 import janson from './hehe';
 import lala from './xixi';
 import bili from './oio';
+import xinxin from './xinxin'
+
+console.log(xinxin())
 
 console.log(bili());
 
